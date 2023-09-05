@@ -30,7 +30,7 @@
 
 ✔ Maintenance period offered for the project
 
-
+<br><br>
 🤜 My technical Skills Encompass the Following:
 
 ⚡ HTML5, CSS3, Javascript, Bootstrap, Tailwind CSS, jQuery
