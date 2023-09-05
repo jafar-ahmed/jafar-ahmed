@@ -153,16 +153,12 @@ j.aburas1@gmail.com 💬
 ## Github Stats  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedh-shadir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jafar-ahmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jafar-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedh-shadir&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jafar-ahmed&show_icons=true&locale=en&theme=tokyonight" alt="jafar-ahmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedh-shadir&theme=tokyonight" alt="muhammedh-shadir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jafar-ahmed&theme=tokyonight" alt="jafar-ahmed" /></p>
 <br/>  
-
-<br/>  
-<br>
-<br>
 
 ----
 <div align="center">
