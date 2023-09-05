@@ -4,10 +4,8 @@
   
 
 ### <div align="center">Hey, 👋 I'm Jafar AbuRas, a Full-Stack Web Developer 👨‍💻 Working Remotely & Local  Everytime Everywhere 🚀</div>  
-  
 
-#### **<ins><div align="center">PHP Laravel & Vue.js</div></ins>**  
-  
+----
 
 👉 With my extensive experience and innovative website design and development skills, I assure you 
  that I am the perfect choice for your technology projects. What I'll give you in the form of points:
@@ -30,7 +28,9 @@
 
 ✔ Maintenance period offered for the project
 
-<br><br>
+----
+
+<br>
 🤜 My technical Skills Encompass the Following:
 
 ⚡ HTML5, CSS3, Javascript, Bootstrap, Tailwind CSS, jQuery
