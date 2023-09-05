@@ -46,6 +46,7 @@ TeamViewer, Zoom
   
   
 Let's have a friendly conversation. Let's get your project to the top. 👌
+<br>
 j.aburas1@gmail.com 💬  
 
 <br/>  
@@ -157,6 +158,8 @@ j.aburas1@gmail.com 💬
 <br/>  
 
 <br/>  
+<br>
+<br>
 
 ----
 <div align="center">
