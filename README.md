@@ -45,18 +45,14 @@ TeamViewer, Zoom
 ⚡ Supporting Software: Visual Studio Code, PhpStorm, Git, Xmind, Postman
   
   
-
 Let's have a friendly conversation. Let's get your project to the top. 👌
 j.aburas1@gmail.com 💬  
-  
 
 <br/>  
 
 
-## My Skill Set  
+## My Skills 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -74,24 +70,19 @@ j.aburas1@gmail.com 💬
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a> 
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>   
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+### Tools  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -156,9 +147,7 @@ j.aburas1@gmail.com 💬
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafar-ahmed&hide_border=true&layout=compact" align="center" /></div>  
@@ -167,25 +156,12 @@ j.aburas1@gmail.com 💬
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
 <br/>  
 
-  
-
-<br/>  
-
+----
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jafar-ahmed&&style=flat-square" align="center" />
+Thanks 😀 <img src="https://komarev.com/ghpvc/?username=jafar-ahmed&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
