@@ -43,7 +43,8 @@
 TeamViewer, Zoom
 
 ⚡ Supporting Software: Visual Studio Code, PhpStorm, Git, Xmind, Postman
-  
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedh-shadir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" /></p>
   
 Let's have a friendly conversation. Let's get your project to the top. 👌
 <br>
