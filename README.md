@@ -30,7 +30,6 @@
 
 ----
 
-<br>
 🤜 My technical Skills Encompass the Following:
 
 ⚡ HTML5, CSS3, Javascript, Bootstrap, Tailwind CSS, jQuery
